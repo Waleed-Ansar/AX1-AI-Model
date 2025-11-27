@@ -1,0 +1,9 @@
+joblib
+wordfreq
+typing
+psycopg
+httpx
+pydantic
+fastapi
+uvicorn
+asyncio
